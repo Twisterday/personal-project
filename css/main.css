@@ -39,6 +39,7 @@
 	overflow-x: hidden;
 	padding-top: 60px;
 	transition: 0.5s;
+	z-index: 4;
 }
 
 .sidepanel a {
