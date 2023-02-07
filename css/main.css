@@ -5,7 +5,7 @@
 
 .header__background {
 	height: 100vh;
-	background: #000 url(./img/backg.gif) no-repeat;
+	background: url(./img/backg.gif) no-repeat;
 	background-size: 100%;
 	display: flex;
 	justify-content: center;
