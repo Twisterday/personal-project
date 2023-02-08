@@ -45,7 +45,7 @@
 .sidepanel a {
 	padding: 8px 8px 8px 32px;
 	text-decoration: none;
-	font-size: 12px;
+	font-size: 18px;
 	color: white;
 	display: block;
 	transition: 0.3s;
@@ -65,7 +65,7 @@
 }
 
 .openbtn {
-	font-size: 15px;
+	font-size: 20px;
 	cursor: pointer;
 	background-color: #0f0f0f;
 	color: #fff;
@@ -81,7 +81,7 @@
 
 .nav__contact {
 	text-decoration: none;
-	font-size: 15px;
+	font-size: 20px;
 	cursor: pointer;
 	background-color: #0f0f0f;
 	color: #fff;
@@ -135,6 +135,7 @@
 	z-index: 3;
 	cursor: pointer;
 	border: solid 1px #5f2dca;
+	font-family: 'Common Pixel', sans-serif;	
 }
 
 .main__link:hover {
