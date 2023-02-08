@@ -49,7 +49,7 @@
 	color: white;
 	display: block;
 	transition: 0.3s;
-	font-family: "Playfair Display";
+	font-family: 'Retro Land Mayhem';
 }
 
 .sidepanel a:hover {
@@ -71,8 +71,7 @@
 	color: #fff;
 	padding: 10px 15px;
 	border: none;
-	font-family: "Playfair Display";
-
+	font-family: 'Retro Land Mayhem';
 }
 
 .openbtn:hover {
@@ -88,7 +87,7 @@
 	color: #fff;
 	padding: 10px 15px;
 	border: none;
-	font-family: "Playfair Display";
+	font-family: 'Retro Land Mayhem';
 }
 
 .nav__contact:hover {
@@ -100,7 +99,7 @@
 	z-index: 2;
 	font-size: 3vw;
 	color: #D8D8D8;
-	font-family: "Playfair Display";
+	font-family: 'Retro Land Mayhem';
 }
 
 .effects {
