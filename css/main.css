@@ -45,11 +45,11 @@
 .sidepanel a {
 	padding: 8px 8px 8px 32px;
 	text-decoration: none;
-	font-size: 252px;
+	font-size: 20px;
 	color: white;
 	display: block;
 	transition: 0.3s;
-	font-family: 'Common Pixel', sans-serif;
+	font-family: 'Silkscreen', cursive;
 }
 
 .sidepanel a:hover {
@@ -71,7 +71,7 @@
 	color: #fff;
 	padding: 10px 15px;
 	border: none;
-	font-family: 'Common Pixel', sans-serif;
+	font-family: 'Silkscreen', cursive;
 }
 
 .openbtn:hover {
@@ -87,7 +87,7 @@
 	color: #fff;
 	padding: 10px 15px;
 	border: none;
-	font-family: 'Common Pixel', sans-serif;
+	font-family: 'Silkscreen', cursive;
 }
 
 .nav__contact:hover {
@@ -99,7 +99,7 @@
 	z-index: 2;
 	font-size: 3vw;
 	color: #D8D8D8;
-	font-family: 'Common Pixel', sans-serif;
+	font-family: 'Silkscreen', cursive;
 	padding-bottom: 10px;
 }
 
@@ -136,7 +136,7 @@
 	z-index: 3;
 	cursor: pointer;
 	border: solid 1px #5f2dca;
-	font-family: 'Common Pixel', sans-serif;	
+	font-family: 'Silkscreen', cursive;
 }
 
 .main__link:hover {
