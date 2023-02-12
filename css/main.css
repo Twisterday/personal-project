@@ -15,7 +15,7 @@
 }
 
 .wrapper {
-	z-index: 3;
+	z-index: 2;
 	position: fixed;
 	transition: 0.5s;
 	height: 100%;
@@ -39,7 +39,7 @@
 	overflow-x: hidden;
 	padding-top: 60px;
 	transition: 0.5s;
-	z-index: 4;
+	z-index: 3;
 }
 
 .sidepanel a {
@@ -107,7 +107,7 @@
 	position: absolute;
 	top: 0;
 	left: 0;
-	z-index: 2;
+	z-index: 1;
 	height: 100vh;
 	width: 100%;
 	background-color: rgba(0, 0, 0, 0.6);
@@ -133,7 +133,7 @@
 	letter-spacing: 2px;
 	overflow: hidden;
 	transition: 0.2s;
-	z-index: 3;
+	z-index: 2;
 	cursor: pointer;
 	border: solid 1px #5f2dca;
 	font-family: 'Silkscreen', cursive;
